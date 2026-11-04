@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/moderated_lms.dir/src/main.cpp.o -o moderated_lms 
+/usr/bin/c++ CMakeFiles/moderated_lms.dir/src/main.cpp.o -o moderated_lms  /usr/lib/x86_64-linux-gnu/libsqlite3.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
